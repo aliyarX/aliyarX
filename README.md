@@ -11,6 +11,8 @@ https://raw.githubusercontent.com/0atman/0atman/master/header.svg
 
 https://raw.githubusercontent.com/alelievr/Mixture/0.4.0/docs/docfx/images/MixtureOpen.gif
 
+![](https://raw.githubusercontent.com/alelievr/Mixture/0.4.0/docs/docfx/images/MixtureOpen.gif)
+
 ### Hi there 👋
 
 sss

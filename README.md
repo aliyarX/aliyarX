@@ -1,34 +1,13 @@
+<div>
+	<br>
+		<img src="header.svg" width="800" height="120">
+	<br>
+</div>
 ### Hi there 👋
-<video controls width="250">
-   <br>
-      <source src="https://raw.githubusercontent.com/aliyarX/aliyarX/main/movie-webm.webm" type="video/webm">
-   <br>
-</video>
-
-![](https://raw.githubusercontent.com/aliyarX/aliyarX/main/movie-webm.webm)
-
-![](https://raw.githubusercontent.com/0atman/0atman/master/header.svg)
-
-![](https://raw.githubusercontent.com/alelievr/Mixture/0.4.0/docs/docfx/images/MixtureOpen.gif)
-
-![](https://raw.githubusercontent.com/alelievr/Mixture/0.4.0/docs/docfx/images/MixtureOpen.gif)
-
-### Hi there 👋
-
-sss
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
+![](https://raw.githubusercontent.com/alelievr/Mixture/0.4.0/docs/docfx/images/MixtureOpen.gif)
+
 **aliyarX/aliyarX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
